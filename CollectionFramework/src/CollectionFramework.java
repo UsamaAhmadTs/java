@@ -48,7 +48,6 @@
 //    }
 //}
 
-
 // Java program to demonstrate the working of a HashMap
 import java.util.*;
 public class CollectionFramework {
